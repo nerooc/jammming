@@ -1,3 +1,24 @@
+# Jammming
+
+A simple Codecademy React course milestone project written in a **React.js** that allows the user to search for a song by providing the name of either the song or author. 
+
+You can also add the songs to a playlist and save it to your Spotify account **(using your client ID in the code)**.
+
+It uses the **Spotify API** to pull the results.
+
+![alt text](https://github.com/nerooc/jammming/blob/master/src/Images/jammming_preview_1.png)
+
+## React Components
+- App - main component holding the others
+- SearchBar - allows the user to browse the songs
+- SearchResults - container holding the tracklist
+- TrackList - holds all the tracks together on one list
+- Track - represents one single search result
+- Playlist - container holding the tracks that we want to save
+
+![alt text](https://github.com/nerooc/jammming/blob/master/src/Images/jammming_preview_2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
