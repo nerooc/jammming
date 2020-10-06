@@ -1,4 +1,12 @@
-# Jammming
+# `Jammming`
+
+### [OPEN DEMO]()
+
+## Tech stack
+- HTML
+- CSS
+- React.js
+- Fetching data with Spotify API
 
 A simple Codecademy React course milestone project written in a **React.js** that allows the user to search for a song by providing the name of either the song or author. 
 
